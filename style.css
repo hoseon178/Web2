@@ -23,6 +23,7 @@ body{
       color: #4646b4;
       padding: 20px;
       border-radius: 10px;
+      display: none;
     }
     #grid{
       display: grid;
