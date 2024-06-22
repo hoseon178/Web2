@@ -18,6 +18,12 @@ body{
       margin:0;
       padding:20px;
     }
+    .alert-box {
+      background: #aba8f4;
+      color: #4646b4;
+      padding: 20px;
+      border-radius: 10px;
+    }
     #grid{
       display: grid;
       grid-template-columns: 45% 1fr;
