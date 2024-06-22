@@ -20,7 +20,7 @@ body{
     }
     #grid{
       display: grid;
-      grid-template-columns: 50% 1fr;
+      grid-template-columns: 45% 1fr;
     }
     #grid ol{
       padding-left:33px;
